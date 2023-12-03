@@ -4,9 +4,9 @@ Licenciado en casi todo (versed in almost everything).
 
 ### TODO list: What I'm up to
 
-- [x] Getting paid to write OpenUi5, Drupal an SQL (2015)
-- [x] Getting paid to maintain live video streaming services up and running (2020)
-- [ ] Getting paid to write Django (backend) and Vue (frontend), and sometimes Terraform
+- [x] Getting paid to write OpenUi5, Drupal an Java for Android (2015)
+- [x] Getting paid to maintain live video streaming servers, and to write PHP (2020)
+- [ ] Getting paid to write Django and Vue, and sometimes Terraform
 - [x] Trying out APL
 - [x] Trying out C# and gamedev
 - [x] Trying out C++

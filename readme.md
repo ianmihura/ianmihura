@@ -1,19 +1,22 @@
 # Argentina tech-man 🇦🇷
 
-Licenciado en casi todo (versed in almost everything).
+Licenciado en casi todo 🥸
 
 ### TODO list: What I'm up to
 
-- [ ] Getting paid to write OpenUi5, Drupal an Java for Android (2015)
-- [ ] Getting paid to maintain live video streaming servers, and to write PHP (2020)
-- [x] Getting paid to write Django and Vue, and sometimes Terraform
-- [ ] Trying out APL
-- [ ] Trying out C# and gamedev
-- [ ] Trying out C++
-- [ ] Trying out Haskell
-- [ ] Trying out other stuff
-- [x] Solving AoC-2023 with Go
-- [x] Writing articles in [medium](https://medium.com/@mihura.ian) and [my blog](ianmihura.github.io)
+- [ ] Taking a break from office life, to learn and build interesting stuff!
+- [ ] Learning [Financial Engineering](https://www.coursera.org/specializations/financialengineering) (and some other finances!)
+- [ ] Learning [Low level programming!](https://www.computerenhance.com/) (and other C/C++)
+- [ ] Learning [Smart contract development](https://www.youtube.com/watch?v=Y3WMkl0AFJk)
+- [ ] Writing articles in [medium](https://medium.com/@mihura.ian) and [my blog](ianmihura.github.io)
+
+### DONE list: Tasks finished
+
+- [x] Getting paid to write OpenUi5, Drupal an Java for Android (2014-16)
+- [x] Getting paid to maintain live video streaming servers, and write some PHP webapps (2020-23)
+- [x] Getting paid to write Django, Vue, and Terraform (2023-25)
+- [x] AoC 2023 (Advent of Code) in GoLang
+- [x] Trying out weird func langs (APL & Haskel)
 
 ### Visit my blog
 

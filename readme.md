@@ -20,4 +20,4 @@ Licenciado en casi todo 🥸
 
 ### Visit my blog
 
-[ianmihura.github.io](ianmihura.github.io)
+[ianmihura.github.io](https://ianmihura.github.io)

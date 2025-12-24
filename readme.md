@@ -5,13 +5,12 @@ Licenciado en casi todo 🥸
 ### TODO: What I'm up to
 
 - [ ] Taking a break from office life, to learn and build interesting stuff!
-- [ ] Learning [Financial Engineering](https://www.coursera.org/specializations/financialengineering) (and some other finances!)
 - [ ] Learning [Low level programming!](https://www.computerenhance.com/) (and other C/C++)
-- [ ] Learning [Smart contract development](https://www.youtube.com/watch?v=Y3WMkl0AFJk)
 - [ ] Writing articles in [medium](https://medium.com/@mihura.ian) and [my blog](ianmihura.github.io)
 
 ### DONE: Tasks finished
 
+- [x] Learning [Financial Engineering](https://www.coursera.org/specializations/financialengineering) (and some other finances!)
 - [x] Getting paid to write OpenUi5, Drupal an Java for Android (2014-16)
 - [x] Getting paid to maintain live video streaming servers, and write some PHP webapps (2020-23)
 - [x] Getting paid to write Django, Vue, and Terraform (2023-25)
